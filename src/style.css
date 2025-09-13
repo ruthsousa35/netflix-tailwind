@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+    --color-primary: theme('colors.blue.500');
+    --color-secondary: theme('colors.green.500');
+    --color-background: theme('colors.gray.100');
+    --color-title: theme('colors.gray.900'); 
+}
+
+
+
